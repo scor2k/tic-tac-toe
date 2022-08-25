@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# tic-tac-toe play --debug
+tic-tac-toe play 

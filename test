@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pytest tic_tac_toe/*
+
